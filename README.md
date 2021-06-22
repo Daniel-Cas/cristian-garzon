@@ -40,4 +40,4 @@ const cristian = {
 
 
 ### most languages used 📊
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-garzon&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-garzon&langs_count=10&theme=synthwave&layout=compact" alt="AnhellO :: Top Langs" /></p>
